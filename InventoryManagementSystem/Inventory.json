@@ -1,17 +1,58 @@
-[
-  {
-    "Name": "Rice",
-    "Price": 30,
-    "Weight": 10
-  },
-  {
-    "Name": "Wheat",
-    "Price": 25,
-    "Weight": 10
-  },
-  {
-    "Name": "Pulses",
-    "Price": 40,
-    "Weight": 10
-  }
-]
+{
+  "RiceList": [
+    {
+      "Name": "Masura",
+      "Price": 30,
+      "Weight": 10
+    },
+    {
+      "Name": "Basmati",
+      "Price": 25,
+      "Weight": 10
+    },
+    {
+      "Name": "Indica Rice",
+      "Price": 40,
+      "Weight": 10
+    },
+    {
+      "Name": "BASS",
+      "Price": 45,
+      "Weight": 56
+    }
+  ],
+  "WheatList": [
+    {
+      "Name": "Common Wheat",
+      "Price": 45,
+      "Weight": 20
+    },
+    {
+      "Name": "Durum",
+      "Price": 20,
+      "Weight": 40
+    },
+    {
+      "Name": "Emmer",
+      "Price": 30,
+      "Weight": 50
+    }
+  ],
+  "PulseList": [
+    {
+      "Name": "Baked Bean",
+      "Price": 25,
+      "Weight": 55
+    },
+    {
+      "Name": "Chick Peas",
+      "Price": 15,
+      "Weight": 5
+    },
+    {
+      "Name": "Blacked Eyed Peas",
+      "Price": 25,
+      "Weight": 10
+    }
+  ]
+}
